@@ -1,1 +1,0 @@
-# EHB Next.js Full Project
